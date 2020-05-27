@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+!/usr/bin/env bash
 
 ARCH=$(uname -m)
 DOCKER_BINARY=/usr/bin/docker
